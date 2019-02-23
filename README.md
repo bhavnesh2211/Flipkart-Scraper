@@ -1,2 +1,2 @@
-# Flipkat-Scraper
+# Flipkart-Scraper
 Scrape First 10 pages of 4G Mobiles of Flipkart
